@@ -1,4 +1,4 @@
-# intellij-plugin-substance
+# intellij-plugin-substrate
 
 ![Build](https://github.com/ericvanderwal/intellij-plugin-substance/workflows/Build/badge.svg)
 [![Version](https://img.shields.io/jetbrains/plugin/v/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
